@@ -7,7 +7,6 @@ window.onload = function () {
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
-    fondomensaje(this);
     // Creamos el botón 1
     boton1 = createButton("toquesitos");
     boton1.position(100, 100);
